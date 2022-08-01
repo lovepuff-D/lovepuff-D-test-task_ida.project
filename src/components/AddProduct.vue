@@ -10,11 +10,11 @@
             return {
                 filledField: {
                     id: '',
-                    name: 'Товар 1',
-                    description: 'Краткое описание',
+                    name: '',
+                    description: '',
                     url: '',
-                    cost: '1 000',
-                    costNumber: '1000',
+                    cost: '',
+                    costNumber: '',
                 },
 
                 isButtonActive: false,
